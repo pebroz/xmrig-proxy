@@ -16,3 +16,4 @@ WORKDIR    /
 ENTRYPOINT ["./xmrig-proxy", "--donate-level=1"]
 
 EXPOSE 3333/tcp
+EXPOSE 5555/tcp

@@ -1,4 +1,6 @@
-# XMRIG Proxy 
+# XMRIG Proxy
+
+Version v5.5.1
 
 Usage example:
 `docker run --restart unless-stopped -d -p 3333:3333 techcf/xmrig-proxy --coin=monero -o pool.xxx:5555 -u your-wallet-address -p x --bind 0.0.0.0:3333`
