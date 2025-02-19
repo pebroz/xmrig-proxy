@@ -1,4 +1,4 @@
-FROM lsiobase/ubuntu:bionic
+FROM lsiobase/ubuntu:amd64-noble
 
 # set version label
 ARG BUILD_DATE
